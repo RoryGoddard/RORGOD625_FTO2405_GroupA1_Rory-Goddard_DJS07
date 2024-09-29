@@ -1,4 +1,4 @@
-import memeFaceLogo from "./img/TrollFace.png"
+import memeFaceLogo from "../img/TrollFace.png"
 
 function Header() {
     return (
