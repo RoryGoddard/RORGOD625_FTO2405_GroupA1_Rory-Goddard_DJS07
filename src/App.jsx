@@ -1,8 +1,12 @@
 import Header from "./Header.jsx"
+import MemeForm from "./Meme.jsx"
 
 function App () {
   return (
-    <Header />
+    <div>
+      <Header />
+      <MemeForm />
+    </div>
   )
 }
 
